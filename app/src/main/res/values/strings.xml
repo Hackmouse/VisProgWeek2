@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasWeek2</string>
+    <string name="title_activity_soal1">Soal1</string>
+    <string name="title_activity_soal2">Soal2</string>
+    <string name="title_activity_soal3">Soal3</string>
+    <string name="title_activity_soal4">Soal4</string>
+    <string name="title_activity_soal42">Soal4_2</string>
+</resources>
